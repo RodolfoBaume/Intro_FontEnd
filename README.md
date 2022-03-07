@@ -19,6 +19,3 @@
   * [Wireframe UX](https://github.com/RodolfoBaume/Intro_FrontEnd/blob/main/4.%20Wireframe%20UX.pdf)
   * [Ahora el UI]
 
-Para entrar a los contenidos solo tienes que dar click en el título y empezará la aventura.
-
-***¡Vámonos hasta el espacio y más allá Explorers!***
