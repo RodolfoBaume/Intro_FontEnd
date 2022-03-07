@@ -13,7 +13,7 @@
 
 
 * **Practicas**
-  * [Toma de requerimientos]
+  * [Toma de requerimientos](https://github.com/RodolfoBaume/Intro_FrontEnd/blob/main/1.%20Requerimientos.pdf)
   * [Buyer persona](https://github.com/RodolfoBaume/Intro_FrontEnd/blob/main/2.%20Buyer%20Persona.pdf)
   * [Publico objetivo](https://github.com/RodolfoBaume/Intro_FrontEnd/blob/main/3.%20Publico%20objetivo.jpg)
   * [Wireframe UX](https://github.com/RodolfoBaume/Intro_FrontEnd/blob/main/4.%20Wireframe%20UX.pdf)
